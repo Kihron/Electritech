@@ -2,7 +2,8 @@
 	"name": "Electritech",
 	"version": "0.0.3",
 	"changelog": [
-		"+Added update checker",
+		"+Added the Update Checker",
+		"=Fixed chat output of the Update Checker",
 		"+Added some new bugs"
 	],
 	"download": "https://www.dropbox.com/s/gmbwt2tp3rchqpu/Electritech.jar?dl=1"

@@ -1,6 +1,6 @@
 {
 	"name": "Electritech",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"changelog": [
 		"+Added the Update Checker",
 		"*Fixed chat output of the Update Checker",

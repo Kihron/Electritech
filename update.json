@@ -2,7 +2,7 @@
 	"name": "Electritech",
 	"version": "0.2",
 	"changelog": [
-		"+Added update checker",
+		"+Added the update checker",
 		"+Added some new bugs"
 	],
 	"download": ""

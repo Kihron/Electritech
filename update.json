@@ -1,9 +1,9 @@
 {
 	"name": "Electritech",
-	"version": "0.0.4",
+	"version": "0.0.2",
 	"changelog": [
 		"+Added update checker",
 		"+Added some new bugs"
 	],
-	"download": "https://github.com/Kihron/Electritech/blob/master/update.json"
+	"download": ""
 }

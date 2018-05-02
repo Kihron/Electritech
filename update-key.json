@@ -6,7 +6,9 @@
 
 	"changelog": [
 
-		"*Fixed Hub Default Key"
+		"*Fixed Hub Default Key",
+		"+Updated to a new Version Checker",
+		"-Removed Obsolete Version Checker"
 
 	],
 

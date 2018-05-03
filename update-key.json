@@ -2,12 +2,16 @@
 
 	"name": "KeyMod",
 
-	"version": "1.4.1",
+	"version": "1.5.0",
 
 	"changelog": [
 
-		"*Fixed Hub Default Key",
+		"+Added Party Warp Key",
+		"+Added Config",
+		"+Added Configuration for Version Checker",
 		"+Updated to a new Version Checker",
+		"*Changed mechanics of Play Again key",
+		"*Fixed Hub Default Key",
 		"-Removed Obsolete Version Checker"
 
 	],

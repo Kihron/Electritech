@@ -1,0 +1,28 @@
+{
+  "keys": [
+    {
+      "category": "Skywars", 
+      "values": ["solo_insane", "teams_insane", "ranked_normal"]
+    },
+    {
+      "category": "Bedwars", 
+      "values": ["bedwars_eight_two", "bedwars_four_three", "bedwars_four_four"]
+    },
+    {
+      "category": "Zombies",
+      "values": ["prototype_zombies_story_normal", "prototype_zombies_story_hard"]
+    },
+    {
+      "category": "Bridges",
+      "values": ["prototype_bridge_1v1", "prototype_bridge_2v2", "prototype_bridge_4v4", "prototype_bridge_2v2v2v2", "prototype_bridge_3v3v3v3"]
+    },
+    {
+      "category": "Duels",
+      "values": ["duels_uhc_duel", "duels_uhc_doubles"]
+    },
+    {
+      "category": "TNT",
+      "values": ["tnt_tntrun", "tnt_pvprun", "tnt_bowspleef", "tnt_tntag", "tnt_capture"]
+    }
+  ]
+}

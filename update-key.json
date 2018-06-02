@@ -2,22 +2,19 @@
 
 	"name": "KeyMod",
 
-	"version": "1.5.0",
+	"version": "1.6.0",
 
 	"changelog": [
 
-		"+Added Party Warp Key",
-		"+Added Down Arrow Key",
-		"+TNT Games",
-		"+Added Config",
-		"+Added Configuration for Version Checker",
-		"+Updated to a new Version Checker",
-		"*Changed mechanics of Play Again key",
-		"*Fixed Hub Default Key",
-		"-Removed Obsolete Version Checker"
+		"+Added Lock Key",
+		"+Added ability for Keys to be added without updating",
+		"*Keys now stored remotely",
+		"*Changed File System",
+		"*Changed internal code",
+		"-Removed outdated methods"
 
 	],
 
-	"download": "https://www.dropbox.com/s/headffrygtaecw3/KeyBindings-1.5.0.jar?dl=1"
+	"download": "https://minecraft.curseforge.com/projects/keybindings-mod/files"
 
 }

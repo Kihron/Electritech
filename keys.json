@@ -48,5 +48,6 @@
   {"gameString":"tnt_capture","translateString":"TNT Wizards"}
    ]
     }
-  ]
+  ],
+  "categories": [ "Skywars", "Bedwars", "Zombies", "Bridges", "Duels", "TNT"]
 }

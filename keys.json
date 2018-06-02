@@ -1,28 +1,52 @@
 {
   "keys": [
     {
-      "category": "Skywars", 
-      "values": ["solo_insane", "teams_insane", "ranked_normal"]
+      "category": "Skywars",
+      "values": [{"gameString":"solo_insane","translateString":"Skywars Solo Insane"}, 
+   {"gameString":"teams_insane","translateString":"Skywars Teams Insane"}, 
+   {"gameString":"ranked_normal","translateString":"Skywars Ranked"}]
     },
     {
-      "category": "Bedwars", 
-      "values": ["bedwars_eight_two", "bedwars_four_three", "bedwars_four_four"]
-    },
+      "category": "Bedwars",
+      "values": [
+  {"gameString":"bedwars_eight_two","translateString":"Bedwars Doubles"}, 
+  {"gameString":"bedwars_four_three","translateString":"Bedwars Threes"}, 
+  {"gameString":"bedwars_four_four","translateString":"Bedwars Fours"}
+   ]
+ },
     {
       "category": "Zombies",
-      "values": ["prototype_zombies_story_normal", "prototype_zombies_story_hard"]
+      "values": [
+    {"gameString":"prototype_zombies_story_normal","translateString":"Zombies Normal"},
+    {"gameString":"prototype_zombies_story_hard","translateString":"Zombies Hard"}
+   ]
     },
     {
       "category": "Bridges",
-      "values": ["prototype_bridge_1v1", "prototype_bridge_2v2", "prototype_bridge_4v4", "prototype_bridge_2v2v2v2", "prototype_bridge_3v3v3v3"]
+      "values": [
+  {"gameString":"prototype_bridge_1v1","translateString":"Bridges 1v1"}, 
+  {"gameString":"prototype_bridge_2v2","translateString":"Bridges 2v2"}, 
+  {"gameString":"prototype_bridge_4v4","translateString":"Bridges 4v4"}, 
+  {"gameString":"prototype_bridge_2v2v2v2","translateString":"Bridges 2v2v2v2"}, 
+  {"gameString":"prototype_bridge_3v3v3v3","translateString":"Bridges 3v3v3v3"}
+   ]
     },
     {
       "category": "Duels",
-      "values": ["duels_uhc_duel", "duels_uhc_doubles"]
+      "values": [
+  {"gameString":"duels_uhc_duel","translateString":"Duels 1v1"}, 
+  {"gameString":"duels_uhc_doubles","translateString":"Duels 2v2"}
+   ]
     },
     {
       "category": "TNT",
-      "values": ["tnt_tntrun", "tnt_pvprun", "tnt_bowspleef", "tnt_tntag", "tnt_capture"]
+      "values": [
+  {"gameString":"tnt_tntrun","translateString":"TNT Run"}, 
+  {"gameString":"tnt_pvprun","translateString":"PvP Run"}, 
+  {"gameString":"tnt_bowspleef","translateString":"Bow Spleef"}, 
+  {"gameString":"tnt_tntag","translateString":"TNT Tag"}, 
+  {"gameString":"tnt_capture","translateString":"TNT Wizards"}
+   ]
     }
   ]
 }

@@ -9,7 +9,7 @@
     {
       "category": "Bedwars",
       "values": [
-  {"gameString":"bedwars_eight_two","translateString":"Bedwarss Doubles"}, 
+  {"gameString":"bedwars_eight_two","translateString":"Bedwars Doubles"}, 
   {"gameString":"bedwars_four_three","translateString":"Bedwars Threes"}, 
   {"gameString":"bedwars_four_four","translateString":"Bedwars Fours"}
    ]

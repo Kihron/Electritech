@@ -4,7 +4,8 @@
       "category": "Skywars",
       "values": [{"gameString":"solo_insane","translateString":"Skywars Solo Insane"}, 
    {"gameString":"teams_insane","translateString":"Skywars Teams Insane"}, 
-   {"gameString":"ranked_normal","translateString":"Skywars Ranked"}]
+   {"gameString":"ranked_normal","translateString":"Skywars Ranked"},
+   {"gameString":"solo_insane_hunters_vs_beasts","translateString":"Skywars Hunters VS Beasts"}]
     },
     {
       "category": "Bedwars",

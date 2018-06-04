@@ -2,16 +2,12 @@
 
 	"name": "KeyMod",
 
-	"version": "1.6.0",
+	"version": "1.6.3",
 
 	"changelog": [
 
-		"+Added Lock Key",
-		"+Added ability for Keys to be added without updating",
-		"*Keys now stored remotely",
-		"*Changed File System",
-		"*Changed internal code",
-		"-Removed outdated methods"
+		"*Improved Internal Code",
+		"*Changed Up Arrow to List Categories"
 
 	],
 

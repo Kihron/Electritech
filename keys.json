@@ -18,8 +18,8 @@
     {
       "category": "Zombies",
       "values": [
-    {"gameString":"prototype_zombies_story_normal","translateString":"Zombies Normal"},
-    {"gameString":"prototype_zombies_story_hard","translateString":"Zombies Hard"}
+    {"gameString":"arcade_zombies_dead_end","translateString":"Zombies (Dead End)"},
+    {"gameString":"arcade_zombies_bad_blood","translateString":"Zombies (Bad Blood)"}
    ]
     },
     {

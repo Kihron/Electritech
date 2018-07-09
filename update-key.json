@@ -2,12 +2,12 @@
 
 	"name": "KeyMod",
 
-	"version": "1.6.3",
+	"version": "1.6.4",
 
 	"changelog": [
 
-		"*Improved Internal Code",
-		"*Changed Up Arrow to List Categories"
+		"+Added a 1.12.2 Version",
+		"+Added Lock to controls menu"
 
 	],
 
